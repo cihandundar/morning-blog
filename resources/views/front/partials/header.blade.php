@@ -6,7 +6,7 @@
         </nav>
         <div class="flex items-center gap-5">
             <div class="relative">
-                <input class="py-1 px-3 rounded-sm" type="search" placeholder="Search...">
+                <input class="py-1 px-3 rounded-sm outline-none" type="search" placeholder="Search...">
                 <button class="absolute right-2 top-1"> <i class="fa-solid fa-magnifying-glass"></i></button>
             </div>
             <button class="bg-red-600 py-1 px-5 text-white rounded-sm hover:bg-red-700 transition-all duration-300">
