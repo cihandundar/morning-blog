@@ -1,4 +1,4 @@
-<section class="py-[90px]">
+<section class="py-[90px] lg:px-0 px-5">
     <div class="container max-w-screen-xl mx-auto">
         <div class="lg:text-4xl pb-5 border-b-2 border-gray-800">
             Featured

@@ -50,14 +50,15 @@
                     </a>
                 </div>
                 <div class="pt-10">
-                    <a href="#" class="border-2 border-gray-900 py-3 px-10 rounded-md">
+                    <a href="#"
+                        class="border-2 border-gray-900 py-3 px-10 rounded-md hover:bg-red-600 transition-all duration-300 ease-in-out hover:text-white">
                         View All
                     </a>
                 </div>
             </div>
-            <div class="lg:col-span-4 lg:pt-0 pt-10">
+            <div class="lg:col-span-4 lg:pt-0 pt-10 shadow-2xl">
                 <div class="text-2xl font-medium pt-5 pl-5">Trending News</div>
-                <div class="flex shadow-2xl lg:flex-col flex-wrap p-5 gap-10">
+                <div class="flex  lg:flex-col flex-wrap p-5 gap-10">
                     <a href="#" class="flex items-center gap-5">
                         <span class="px-2 bg-red-600 font-medium text-white rounded-md">1</span>
                         <div>

@@ -22,7 +22,21 @@ export default {
                 xl: "1280px",
                 "2xl": "1536px",
             },
+            keyframes: {
+                slider: {
+                    "0%": { transform: "translateX(0)" },
+                    "100%": { transform: "translateX(-100%)" },
+                },
+            },
+            animation: {
+                slider: "slider 20s linear infinite",
+            },
         },
     },
     plugins: [],
+    variants: {
+        extend: {
+            animation: ["hover", "group-hover"],
+        },
+    },
 };

@@ -1,4 +1,4 @@
-<section class="py-5">
+<section class="py-5 lg:px-0 px-5">
     <div class="container max-w-screen-xl mx-auto">
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-10">
             <div class="lg:col-span-9 pt-4 ">
