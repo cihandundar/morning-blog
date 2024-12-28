@@ -1,7 +1,7 @@
 <section class="py-[90px] lg:px-0 px-5">
     <div class="container max-w-screen-xl mx-auto">
-        <div class="grid grid-cols-1 lg:grid-cols-12 gap-20 pt-5">
-            <div class="lg:col-span-6">
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-20 shadow-2xl py-20">
+            <div class="lg:col-span-6 pl-5">
                 <div class="relative overflow-hidden group">
                     <div class="flex gap-5 items-center animate-slider group-hover:[animation-play-state:paused]">
                         <a href="#"> <img class="max-h-[195px] max-w-[195px]"
@@ -38,7 +38,7 @@
                     </div>
                 </div>
             </div>
-            <div class="lg:col-span-6">
+            <div class="lg:col-span-6 pr-5">
                 <div class="flex flex-col items-start gap-5">
                     <div class="text-2xl">Access exclusive content and analysis.</div>
                     <p>From breaking news to thought-provoking opinion pieces, our newsletter keeps you informed and

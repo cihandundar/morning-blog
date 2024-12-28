@@ -7,4 +7,5 @@
     @include('front.partials.sections.latest-news')
     @include('front.partials.sections.featured')
     @include('front.partials.sections.cta')
+    @include('front.partials.sections.news-category')
 @endsection
